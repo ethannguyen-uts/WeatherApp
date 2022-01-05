@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GOOGLE_PLACES</key>
+	<string>AIzaSyDSbp66dOJ4hI_kTkGNHvtllTSaS7bTMb0</string>
+	<key>OPEN_WEATHER</key>
+	<string>40f65a7720466ff851fff8479d3b7e0e</string>
+</dict>
+</plist>
